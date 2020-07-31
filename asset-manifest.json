@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/MusicTherapyMobile/static/css/main.cec260d6.chunk.css",
-    "main.js": "/MusicTherapyMobile/static/js/main.2e8661ec.chunk.js",
-    "main.js.map": "/MusicTherapyMobile/static/js/main.2e8661ec.chunk.js.map",
+    "main.js": "/MusicTherapyMobile/static/js/main.3f74d68a.chunk.js",
+    "main.js.map": "/MusicTherapyMobile/static/js/main.3f74d68a.chunk.js.map",
     "runtime-main.js": "/MusicTherapyMobile/static/js/runtime-main.fa698358.js",
     "runtime-main.js.map": "/MusicTherapyMobile/static/js/runtime-main.fa698358.js.map",
-    "static/js/2.6da079f8.chunk.js": "/MusicTherapyMobile/static/js/2.6da079f8.chunk.js",
-    "static/js/2.6da079f8.chunk.js.map": "/MusicTherapyMobile/static/js/2.6da079f8.chunk.js.map",
+    "static/js/2.7a51f96b.chunk.js": "/MusicTherapyMobile/static/js/2.7a51f96b.chunk.js",
+    "static/js/2.7a51f96b.chunk.js.map": "/MusicTherapyMobile/static/js/2.7a51f96b.chunk.js.map",
     "index.html": "/MusicTherapyMobile/index.html",
-    "precache-manifest.feca8303fc21ae630d71d382f29dc621.js": "/MusicTherapyMobile/precache-manifest.feca8303fc21ae630d71d382f29dc621.js",
+    "precache-manifest.84be7f5d38a1253bd789454fba397f8e.js": "/MusicTherapyMobile/precache-manifest.84be7f5d38a1253bd789454fba397f8e.js",
     "service-worker.js": "/MusicTherapyMobile/service-worker.js",
     "static/css/main.cec260d6.chunk.css.map": "/MusicTherapyMobile/static/css/main.cec260d6.chunk.css.map",
-    "static/js/2.6da079f8.chunk.js.LICENSE.txt": "/MusicTherapyMobile/static/js/2.6da079f8.chunk.js.LICENSE.txt",
+    "static/js/2.7a51f96b.chunk.js.LICENSE.txt": "/MusicTherapyMobile/static/js/2.7a51f96b.chunk.js.LICENSE.txt",
     "static/media/DilIbaadat.mp3": "/MusicTherapyMobile/static/media/DilIbaadat.0467922e.mp3",
     "static/media/DilIbadat.jpg": "/MusicTherapyMobile/static/media/DilIbadat.f5232b01.jpg",
     "static/media/KMPH.mp3": "/MusicTherapyMobile/static/media/KMPH.23bdc8fd.mp3",
@@ -31,8 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fa698358.js",
-    "static/js/2.6da079f8.chunk.js",
+    "static/js/2.7a51f96b.chunk.js",
     "static/css/main.cec260d6.chunk.css",
-    "static/js/main.2e8661ec.chunk.js"
+    "static/js/main.3f74d68a.chunk.js"
   ]
 }
