@@ -4,9 +4,7 @@ import NavBar from "./NavigationBar";
 import {Link} from "react-router-dom";
 function LandPage()
 {
-  return <div className="cotainer-fluid">
-  <NavBar></NavBar>
-  <div className="container-fluid" id="land-bg">
+  return <div className="container-fluid" id="land-bg">
     <div class="row">
       <div  class=" offset-sm-2 col-sm-8 offset-sm-2 text-center mt-4" >
        <span id="landing-header"  className="theme-pink">MAN KI BAAT PVT. LTD.</span><br></br>
@@ -18,6 +16,6 @@ function LandPage()
       </div>
     </div>
   </div>
-  </div>
+
 }
 export default LandPage;

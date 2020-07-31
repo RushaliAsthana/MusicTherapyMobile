@@ -1,6 +1,10 @@
-@media screen and (max-width:760px)
+@media screen and (max-width:1300px)
 {     .white{
       color:white;
+}
+#displaycontainer{
+      height: 72vh;
+      margin-top: 10px;
 }
       .theme-pink{
        color: #ed257a;
@@ -56,7 +60,7 @@
        width: 100vw;
        background-size: 100vw 100vh;
       }
-     #searchicon{
+     #searchicon,#searchicon1{
            position: relative;
            top:25px;
            right:10px;
@@ -74,13 +78,16 @@
            border-radius: 10px;
      }
      #jukebox{
-           height: 53vh;
+           height: 50vh;
      }
-     #list{
+     #list,#topsong{
       /* border: 1px solid black; */
       max-height: 60px;
       padding-bottom: 20px;
       padding-top: 5px;
+     }
+     #topsong{
+           background-color: #e7d3f3;
      }
      #player{
            height: 9vh;
@@ -97,7 +104,7 @@
          margin-left: 10px;
    }
    #playicon{
-         margin-top: -20px;
+         margin-top: -45px;
    }
    #sname{
          font-size: 14px;
@@ -132,6 +139,14 @@
    #pause-play-icons{
          font-size: 35px;
    }
+   .sideicon{
+      position: relative;
+      top:-50px
+   }
+
+    .fontsong{
+          font-size: 4vw;
+    }
 }
 @media screen and  (max-width:330px)
 {
@@ -141,4 +156,9 @@
    #landing-header{
     font-size: 25px;
    }
+   #searchicon1{
+      position: relative;
+      top:25px;
+      right:-40px;
+}
 }
