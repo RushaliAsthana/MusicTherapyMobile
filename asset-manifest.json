@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/MusicTherapyMobile/static/css/main.cec260d6.chunk.css",
+    "main.js": "/MusicTherapyMobile/static/js/main.66fccb56.chunk.js",
+    "main.js.map": "/MusicTherapyMobile/static/js/main.66fccb56.chunk.js.map",
+    "runtime-main.js": "/MusicTherapyMobile/static/js/runtime-main.fa698358.js",
+    "runtime-main.js.map": "/MusicTherapyMobile/static/js/runtime-main.fa698358.js.map",
+    "static/js/2.6da079f8.chunk.js": "/MusicTherapyMobile/static/js/2.6da079f8.chunk.js",
+    "static/js/2.6da079f8.chunk.js.map": "/MusicTherapyMobile/static/js/2.6da079f8.chunk.js.map",
+    "index.html": "/MusicTherapyMobile/index.html",
+    "precache-manifest.3cb6d72181644645e170443c8d913ecb.js": "/MusicTherapyMobile/precache-manifest.3cb6d72181644645e170443c8d913ecb.js",
+    "service-worker.js": "/MusicTherapyMobile/service-worker.js",
+    "static/css/main.cec260d6.chunk.css.map": "/MusicTherapyMobile/static/css/main.cec260d6.chunk.css.map",
+    "static/js/2.6da079f8.chunk.js.LICENSE.txt": "/MusicTherapyMobile/static/js/2.6da079f8.chunk.js.LICENSE.txt",
+    "static/media/DilIbaadat.mp3": "/MusicTherapyMobile/static/media/DilIbaadat.0467922e.mp3",
+    "static/media/DilIbadat.jpg": "/MusicTherapyMobile/static/media/DilIbadat.f5232b01.jpg",
+    "static/media/KMPH.mp3": "/MusicTherapyMobile/static/media/KMPH.23bdc8fd.mp3",
+    "static/media/KMPH.jpg": "/MusicTherapyMobile/static/media/KMPH.f9304908.jpg",
+    "static/media/Kamli.mp3": "/MusicTherapyMobile/static/media/Kamli.881946ba.mp3",
+    "static/media/LKLP.jpg": "/MusicTherapyMobile/static/media/LKLP.e25d677d.jpg",
+    "static/media/LabonKo.mp3": "/MusicTherapyMobile/static/media/LabonKo.19891678.mp3",
+    "static/media/Muqabla.mp3": "/MusicTherapyMobile/static/media/Muqabla.2a4672a1.mp3",
+    "static/media/StreetDancer.jpg": "/MusicTherapyMobile/static/media/StreetDancer.a0582c5a.jpg",
+    "static/media/Tum Se Hi.mp3": "/MusicTherapyMobile/static/media/Tum Se Hi.87423c72.mp3",
+    "static/media/kamli.jpg": "/MusicTherapyMobile/static/media/kamli.26dda61f.jpg",
+    "static/media/styles.css": "/MusicTherapyMobile/static/media/landingbg.82d43ca6.png",
+    "static/media/logo.png": "/MusicTherapyMobile/static/media/logo.c68547da.png",
+    "static/media/logo1.png": "/MusicTherapyMobile/static/media/logo1.434e8635.png",
+    "static/media/sound.gif": "/MusicTherapyMobile/static/media/sound.0844543c.gif",
+    "static/media/tumsehi.jpg": "/MusicTherapyMobile/static/media/tumsehi.39864735.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa698358.js",
+    "static/js/2.6da079f8.chunk.js",
+    "static/css/main.cec260d6.chunk.css",
+    "static/js/main.66fccb56.chunk.js"
+  ]
+}
