@@ -63,7 +63,6 @@ function App()
        }) 
        
      }
-     console.log(window.location.pathname)
      var arr=music.slice(music.length-1,music.length);
    return  <div> 
    <Router>   

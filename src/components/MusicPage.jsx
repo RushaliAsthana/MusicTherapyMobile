@@ -9,7 +9,6 @@ function MusicPage(props)
    useEffect(()=>{
       document.body.style.backgroundColor="#fff1f4"; 
    })
-   console.log(props)
    var musicarr=Music.slice(0,2); // these 2 lines are for breaking the array exactly at 2 and 3 objects
    var musicarr1=Album.slice(0,3);
    return <div id="mainpage">
@@ -19,9 +18,9 @@ function MusicPage(props)
      <div className="container-fluid overflow-auto" id="displaycontainer">
  <div className="mt-3 mb-2 ">
      <span className="theme-pink  heading">Recommended</span>
-     <span className="pull-right theme-gray mt-2 viewmore"><Link to="/recommedations"  style={{ color: '#9d9da3',textDecoration: 'none' }}>View more <i class="fa fa-angle-right theme-gray" aria-hidden="true"></i> </Link> </span>
+     <span className="pull-right theme-gray mt-2 viewmore"><Link to="/recommedations"  style={{ color: '#9d9da3',textDecoration: 'none' }}>View more <i className="fa fa-angle-right theme-gray" aria-hidden="true"></i> </Link> </span>
      </div>
-     <div class="row">
+     <div className="row">
       {
           musicarr.map((newItem)=>{
             return  <Display id={newItem.key}  imgSrc={newItem.musicImage} name={newItem.name}
@@ -31,12 +30,12 @@ function MusicPage(props)
      
      </div>
      <span className="heading theme-pink">Albums</span>
-     <span className="pull-right  theme-gray mt-2 viewmore"><Link to="/albumslist" style={{ color: '#9d9da3',textDecoration: 'none' }}>View more <i class="fa fa-angle-right theme-gray" aria-hidden="true"></i> </Link> </span><br/>
+     <span className="pull-right  theme-gray mt-2 viewmore"><Link to="/albumslist" style={{ color: '#9d9da3',textDecoration: 'none' }}>View more <i className="fa fa-angle-right theme-gray" aria-hidden="true"></i> </Link> </span><br/>
 
      <div className="row mt-2">
      {
      musicarr1.map((newItem)=>{
-            return  <div class="col text-center">
+            return  <div className="col text-center">
             <Link to={"list/"+newItem.id}>
           <img src={newItem.albumimg} className="img-responsive" height="100px" width="100%" ></img><br></br>
           <span className="ml-2 theme-darkblue  small">{newItem.albumname}</span><br></br>
@@ -48,7 +47,7 @@ function MusicPage(props)
      <div className="row mt-2">
      {
      musicarr1.map((newItem)=>{
-            return  <div class="col text-center">
+            return  <div className="col text-center">
             <Link to={"/list/"+newItem.id}>
           <img src={newItem.albumimg} className="img-responsive" height="100px" width="100%" ></img><br></br>
           <span className="ml-2 theme-darkblue  small">{newItem.albumname}</span><br></br>

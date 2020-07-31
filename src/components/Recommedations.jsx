@@ -12,10 +12,10 @@ function Recommedations(props)
  return <div>
  <div className="container-fluid" id="topheader"><br/>
   <span className=" theme-pink  heading1  ml-4">Recommedations For You</span>
-  <i class="fa fa-arrow-circle-left fa-2x pull-right mr-2 white" onClick={() => history.goBack()} aria-hidden="true"></i>
+  <i className="fa fa-arrow-circle-left fa-2x pull-right mr-2 white" onClick={() => history.goBack()} aria-hidden="true"></i>
   <br/>
   <span className=" ml-4 theme-blue ">{Music.length} Songs </span><br/>
-   <i class="fa fa-search pull-right mt-2 theme-pink" id="searchicon1"></i>
+   <i className="fa fa-search pull-right mt-2 theme-pink" id="searchicon1"></i>
   <input type="text" id="searchbar" className="form-control form-control-sm" placeholder="Search/artist.."></input><br/>
  </div>
  <div className="container-fluid mt-3 overflow-auto" id="jukebox">

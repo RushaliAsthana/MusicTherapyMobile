@@ -16,7 +16,7 @@ console.log(arr)
 return <div>
 <div className="container-fluid" id="topheader1"><br/>
  <span className=" theme-pink  heading1  ml-3">NOW PLAYING</span>
- <i class="fa fa-arrow-circle-left fa-2x pull-right mr-2 theme-darkblue" onClick={() => history.goBack()} aria-hidden="true"></i>
+ <i className="fa fa-arrow-circle-left fa-2x pull-right mr-2 theme-darkblue" onClick={() => history.goBack()} aria-hidden="true"></i>
  <div className="row">
  <div className="col">
  <img src={arr.map((item)=>{return item.imgurl} )} height="60px" width="60px" className="  mt-2 mb-3 pull-left"></img>
