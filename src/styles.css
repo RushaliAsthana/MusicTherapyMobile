@@ -3,7 +3,7 @@
       color:white;
 }
 #displaycontainer{
-      height: 72vh;
+      height: 70vh;
       margin-top: 10px;
 }
       .theme-pink{
@@ -150,6 +150,10 @@
 }
 @media screen and  (max-width:330px)
 {
+      #displaycontainer{
+            height: 69vh;
+            margin-top: 10px;
+      }
    #logo{
     height: 150px;
    }
@@ -160,5 +164,8 @@
       position: relative;
       top:25px;
       right:-40px;
+}
+#jukebox{
+      height: 47vh;
 }
 }

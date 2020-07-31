@@ -44,7 +44,7 @@ function Songs(props)
         <i className="fa fa-ellipsis-v fa-lg theme-blue" data-toggle="dropdown" aria-hidden="true"></i>
     </button>
     <div className="dropdown-menu">
-      {loc.pathname==="/myplaylist"?<a className="dropdown-item  theme-pink blue" href="#" onClick={delSong}>Delete</a>:null}
+      {loc.pathname==="/myplaylist"?<a className="dropdown-item blue" onClick={delSong}><span className="theme-pink ">Delete </span></a>:null}
       <a className="dropdown-item theme-pink blue" href="#">Download</a>
       <a className="dropdown-item theme-pink blue" href="#">Share</a>
     </div>
