@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import LandPage from "./components/LandPage";
 import {  Route, Switch } from "react-router"; 
-import { BrowserRouter as Router,Link } from 'react-router-dom';
+import { HashRouter as Router,Link } from 'react-router-dom';
 import MusicPage from "./components/MusicPage";
 import AlbumList from "./components/AlbumsList";
 import AlbumSongs from "./components/AlbumSongs";
