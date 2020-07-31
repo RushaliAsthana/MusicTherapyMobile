@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MusicTherapyMobile/static/css/main.cec260d6.chunk.css",
-    "main.js": "/MusicTherapyMobile/static/js/main.3f74d68a.chunk.js",
-    "main.js.map": "/MusicTherapyMobile/static/js/main.3f74d68a.chunk.js.map",
+    "main.css": "/MusicTherapyMobile/static/css/main.0f8483bd.chunk.css",
+    "main.js": "/MusicTherapyMobile/static/js/main.a059ef26.chunk.js",
+    "main.js.map": "/MusicTherapyMobile/static/js/main.a059ef26.chunk.js.map",
     "runtime-main.js": "/MusicTherapyMobile/static/js/runtime-main.fa698358.js",
     "runtime-main.js.map": "/MusicTherapyMobile/static/js/runtime-main.fa698358.js.map",
     "static/js/2.7a51f96b.chunk.js": "/MusicTherapyMobile/static/js/2.7a51f96b.chunk.js",
     "static/js/2.7a51f96b.chunk.js.map": "/MusicTherapyMobile/static/js/2.7a51f96b.chunk.js.map",
     "index.html": "/MusicTherapyMobile/index.html",
-    "precache-manifest.84be7f5d38a1253bd789454fba397f8e.js": "/MusicTherapyMobile/precache-manifest.84be7f5d38a1253bd789454fba397f8e.js",
+    "precache-manifest.fad6deedf7fb8004487a7cdad4cab892.js": "/MusicTherapyMobile/precache-manifest.fad6deedf7fb8004487a7cdad4cab892.js",
     "service-worker.js": "/MusicTherapyMobile/service-worker.js",
-    "static/css/main.cec260d6.chunk.css.map": "/MusicTherapyMobile/static/css/main.cec260d6.chunk.css.map",
+    "static/css/main.0f8483bd.chunk.css.map": "/MusicTherapyMobile/static/css/main.0f8483bd.chunk.css.map",
     "static/js/2.7a51f96b.chunk.js.LICENSE.txt": "/MusicTherapyMobile/static/js/2.7a51f96b.chunk.js.LICENSE.txt",
     "static/media/DilIbaadat.mp3": "/MusicTherapyMobile/static/media/DilIbaadat.0467922e.mp3",
     "static/media/DilIbadat.jpg": "/MusicTherapyMobile/static/media/DilIbadat.f5232b01.jpg",
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.fa698358.js",
     "static/js/2.7a51f96b.chunk.js",
-    "static/css/main.cec260d6.chunk.css",
-    "static/js/main.3f74d68a.chunk.js"
+    "static/css/main.0f8483bd.chunk.css",
+    "static/js/main.a059ef26.chunk.js"
   ]
 }
