@@ -1,15 +1,15 @@
 import React, { useState } from "react";
-import LandPage from "./components/LandPage";
+import LandPage from "../components/LandPage";
 import {  Route, Switch } from "react-router"; 
 import { HashRouter as Router,Link } from 'react-router-dom';
-import MusicPage from "./components/MusicPage";
-import AlbumList from "./components/AlbumsList";
-import AlbumSongs from "./components/AlbumSongs";
-import "./styles.css";
-import MyPlayList from "./components/MyPlayList";
-import Player from "./components/MusicBar";
-import Navbar from "./components/NavigationBar";
-import Recommdations from "./components/Recommedations";
+import MusicPage from "../components/MusicPage";
+import AlbumList from "../components/AlbumsList";
+import AlbumSongs from "../components/AlbumSongs";
+import "../styles.css";
+import MyPlayList from "../components/MyPlayList";
+import Player from "../components/MusicBar";
+import Navbar from "../components/NavigationBar";
+import Recommdations from "../components/Recommedations";
 
 function App()
 {

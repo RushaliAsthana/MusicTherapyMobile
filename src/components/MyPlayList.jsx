@@ -1,8 +1,8 @@
 import React,{useEffect} from "react";
 import { useHistory } from "react-router-dom";
 import Songs from "./Songs";
-import musicbars from "./images/musicbars.png";
-import playmusicbars from "./images/sound.gif";
+import musicbars from "../assets/images/musicbars.png";
+import playmusicbars from "../assets/images/sound.gif";
 function MyPlayList(props)
 {
   let history = useHistory();

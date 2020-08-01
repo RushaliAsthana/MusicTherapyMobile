@@ -1,6 +1,5 @@
 import React from "react";
-import Logo from "./images/logo1.png";
-import NavBar from "./NavigationBar";
+import Logo from "../assets/images/logo1.png";
 import {Link} from "react-router-dom";
 function LandPage()
 {
