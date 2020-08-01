@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MusicTherapyMobile/static/css/main.0f8483bd.chunk.css",
-    "main.js": "/MusicTherapyMobile/static/js/main.a059ef26.chunk.js",
-    "main.js.map": "/MusicTherapyMobile/static/js/main.a059ef26.chunk.js.map",
+    "main.css": "/MusicTherapyMobile/static/css/main.5e42ba4f.chunk.css",
+    "main.js": "/MusicTherapyMobile/static/js/main.fcb33b01.chunk.js",
+    "main.js.map": "/MusicTherapyMobile/static/js/main.fcb33b01.chunk.js.map",
     "runtime-main.js": "/MusicTherapyMobile/static/js/runtime-main.fa698358.js",
     "runtime-main.js.map": "/MusicTherapyMobile/static/js/runtime-main.fa698358.js.map",
-    "static/js/2.7a51f96b.chunk.js": "/MusicTherapyMobile/static/js/2.7a51f96b.chunk.js",
-    "static/js/2.7a51f96b.chunk.js.map": "/MusicTherapyMobile/static/js/2.7a51f96b.chunk.js.map",
+    "static/js/2.7a9696a9.chunk.js": "/MusicTherapyMobile/static/js/2.7a9696a9.chunk.js",
+    "static/js/2.7a9696a9.chunk.js.map": "/MusicTherapyMobile/static/js/2.7a9696a9.chunk.js.map",
     "index.html": "/MusicTherapyMobile/index.html",
-    "precache-manifest.393a877aa237431a8bd758b6ed6aead0.js": "/MusicTherapyMobile/precache-manifest.393a877aa237431a8bd758b6ed6aead0.js",
+    "precache-manifest.a85fc5505320217e4cd398504217cfb5.js": "/MusicTherapyMobile/precache-manifest.a85fc5505320217e4cd398504217cfb5.js",
     "service-worker.js": "/MusicTherapyMobile/service-worker.js",
-    "static/css/main.0f8483bd.chunk.css.map": "/MusicTherapyMobile/static/css/main.0f8483bd.chunk.css.map",
-    "static/js/2.7a51f96b.chunk.js.LICENSE.txt": "/MusicTherapyMobile/static/js/2.7a51f96b.chunk.js.LICENSE.txt",
+    "static/css/main.5e42ba4f.chunk.css.map": "/MusicTherapyMobile/static/css/main.5e42ba4f.chunk.css.map",
+    "static/js/2.7a9696a9.chunk.js.LICENSE.txt": "/MusicTherapyMobile/static/js/2.7a9696a9.chunk.js.LICENSE.txt",
     "static/media/DilIbaadat.mp3": "/MusicTherapyMobile/static/media/DilIbaadat.0467922e.mp3",
     "static/media/DilIbadat.jpg": "/MusicTherapyMobile/static/media/DilIbadat.f5232b01.jpg",
     "static/media/KMPH.mp3": "/MusicTherapyMobile/static/media/KMPH.23bdc8fd.mp3",
@@ -31,8 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fa698358.js",
-    "static/js/2.7a51f96b.chunk.js",
-    "static/css/main.0f8483bd.chunk.css",
-    "static/js/main.a059ef26.chunk.js"
+    "static/js/2.7a9696a9.chunk.js",
+    "static/css/main.5e42ba4f.chunk.css",
+    "static/js/main.fcb33b01.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MusicTherapyMobile/precache-manifest.393a877aa237431a8bd758b6ed6aead0.js"
+  "/MusicTherapyMobile/precache-manifest.a85fc5505320217e4cd398504217cfb5.js"
 );
 
 self.addEventListener('message', (event) => {
